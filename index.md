@@ -6,7 +6,7 @@
 ## Gaminax
 
 ### Computing Blog
-[ComputingBlog/](2019-10-11-initial-post.html)
+[ComputingBlog/](computingBlog/2019-10-11-initial-post.html)
 
 ### [Computing/ ](computing/index.html )
 
