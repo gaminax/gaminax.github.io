@@ -1,0 +1,24 @@
+== Asciidoc
+
+Asciidoc(2010)
+
+[small]##
+link:../../../index.html[Gaminax.github.io]
+link:../../index.html[computing]
+link:../index.html[formatting/]
+##
+
+*This* +
+_this_ +
++this+ +
+
+
+
+.an asciidoc paragraph
+This is sentence one.
+And this is sentence two.
+
+.a list
+- one
+- two
+- three
