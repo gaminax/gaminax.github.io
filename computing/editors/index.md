@@ -1,4 +1,4 @@
-[Computing](../index.html) Editors
+[Computing/](../index.html) Editors/
 
-[Vim](vim/index.html)
+[Vim](vim/index.html) +
 [Emacs](emacs/index.html)
