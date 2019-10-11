@@ -4,8 +4,11 @@ Computing/
 
 ## Computer Software Descriptions
 
+### [Formatting/]
+[AsciiDoc/](formatting/asciidoc/index.html)
+
 ### [Editors](editors/index.html)
 
-[Vim/](vim/index.html)
+[Vim/](editors/vim/index.html)
 
-[Emacs/](emacs/index.html)
+[Emacs/](editors/emacs/index.html)
