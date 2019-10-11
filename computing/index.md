@@ -4,7 +4,7 @@ Computing/
 
 ## Computer Software Descriptions
 
-### [Formatting/]
+### [Formatting/](formatting/index.html)
 [AsciiDoc/](formatting/asciidoc/index.html)
 
 ### [Editors](editors/index.html)
