@@ -1,4 +1,4 @@
-[Home]/(../../index.html)
+[Home/](../../index.html)
 [Computing/](../index.html)
 Languages/
 
