@@ -30,10 +30,8 @@
 
 ## Moon Flowers
 
-
-<svg xmlns="http://www.w3.org/2000/svg"
-xmlns:xlink="http://www.w3.org/1999/xlink"
-  width="800" height="200" viewBox="0 0 800 200" >
+<div>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="100" viewBox="0 0 800 200" >
 <defs>
 <symbol id="sun" viewBox="0 0 20 20" >
 <circle cx="10" cy="10" r="5" style="fill:yellow" />
@@ -86,4 +84,5 @@ xmlns:xlink="http://www.w3.org/1999/xlink"
   repeatDur="indefinite" />
 </use>
 </svg>
+</div>
 
