@@ -29,6 +29,7 @@
 2019-10-11, 2019-10-10, 2016-03-15, 2016-03-10
 
 ## Moon Flowers
+
 <![CDATA[
 <svg xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -85,4 +86,5 @@ xmlns:xlink="http://www.w3.org/1999/xlink"
   repeatDur="indefinite" />
 </use>
 </svg>
+
 ]]>
