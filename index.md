@@ -1,32 +1,26 @@
+Gaminax Home/
+
+A Blog and a Description of some computing topics.
+
+### [Computing Blog/](computingBlog/index.html)
+- [2019-10-11-initial-post](computingBlog/2019-10-11-initial-post.html)
 
 
+### [Computing/](computing/index.html )
 
-
-
-## Gaminax
-
-### [ComputingBlog/](computingBlog/index.html)
-[2019-10-11-initial-post](computingBlog/2019-10-11-initial-post.html)
-
-
-### [Computing/ ](computing/index.html )
-
-#### [Editors/ ](computing/editors/index.html)
-[Emacs/](computing/editors/emacs/index.html)
-[Vim/ ](computing/editors/vim/index.html)
+#### [Editors/](computing/editors/index.html)
+- [Emacs/](computing/editors/emacs/index.html)
+- [Vim/ ](computing/editors/vim/index.html)
 
 #### [Formatting/](computing/formatting/index.html)
-[AsciiDoc/](computing/formatting/asciidoc/index.html)
-[Rimu/](computing/formatting/rimu/index.html)
+- [AsciiDoc/](computing/formatting/asciidoc/index.html)
+- [Rimu/](computing/formatting/rimu/index.html)
 
 #### [Languages/](computing/languages/index.html)
-[JavaScript](computing/languages/javascript/index.html)
+- [JavaScript](computing/languages/javascript/index.html)
 
 #### [Web/](computing/web/index.html)
-[SVG](computing/web/svg/index.html)
-
-## Revisions
-2019-10-11, 2019-10-10, 2016-03-15, 2016-03-10
+- [SVG](computing/web/svg/index.html)
 
 ## Moon Flowers
 
@@ -46,20 +40,11 @@
 </symbol>
 </defs>
 <rect x="0" y="0" width="800" height="150" >
-<animate attributeName="fill" begin="5s" dur="20s"
-  // from="#222" to="#11f"
-  values="#112; #224;$44f;#224;#112;#112;"
-  fill="freeze"
-  repeatDur="indefinite"
-  />
+<animate attributeName="fill" begin="5s" dur="20s" values="#112; #224; #44f; #224; #112; #112;" fill="freeze" repeatDur="indefinite" />
 </rect>
 <rect x="0" y="150" width="800" height="50" style="fill:#660;" />
 <use xlink:href="#sun" width="30" height="30" >
-<animateMotion
-    path="M-60 0 M -30 100 Q 400 -100 800 100 Q 1200 -100 1600 100"
-    begin="10s" dur="20s" fill="freeze"
-    repeatDur="indefinite"
-    />
+<animateMotion path="M-60 0 M -30 100 Q 400 -100 800 100 Q 1200 -100 1600 100" begin="10s" dur="20s" fill="freeze" repeatDur="indefinite" />
 </use>
 <use xlink:href="#flower" x="20" y="100" width="100" height="100" >
 <animateTransform attributeType="XML"
@@ -86,3 +71,8 @@
 </svg>
 </div>
 
+## Revisions
+2019-10-11, 2019-10-10, 2016-03-15, 2016-03-10
+
+## Formatting Method
+As an experiment, these Github Pages have been entered directly on the website with the Github editor, and withut the use of an offline page generator.
