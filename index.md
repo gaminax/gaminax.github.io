@@ -40,7 +40,7 @@ A Blog and a Description of some computing topics.
 </symbol>
 </defs>
 <rect x="0" y="0" width="800" height="150" >
-<animate attributeName="fill" begin="5s" dur="20s" values="#112; #224; #44f; #224; #112; #112;" fill="freeze" repeatDur="indefinite" />
+\\<animate attributeName="fill" begin="5s" dur="20s" values="#112; #224; #44f; #224; #112; #112;" fill="freeze" repeatDur="indefinite" />
 </rect>
 <rect x="0" y="150" width="800" height="50" style="fill:#660;" />
 <use xlink:href="#sun" width="30" height="30" >
@@ -71,8 +71,8 @@ A Blog and a Description of some computing topics.
 </svg>
 </div>
 
-## Revisions
-2019-10-11, 2019-10-10, 2016-03-15, 2016-03-10
-
 ## Formatting Method
-As an experiment, these Github Pages have been entered directly on the website with the Github editor, and withut the use of an offline page generator.
+As an experiment, these Github Pages have been entered directly on the website with the Github editor, and without the use of an offline page generator.
+
+## Revisions
+2019-10-12, 2019-10-11, 2019-10-10, 2016-03-15, 2016-03-10
