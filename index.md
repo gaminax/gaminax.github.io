@@ -40,16 +40,14 @@ A Blog and a Description of some computing topics.
 </symbol>
 </defs>
 <rect x="0" y="0" width="800" height="150" >
-\\<animate attributeName="fill" begin="5s" dur="20s" values="#112; #224; #44f; #224; #112; #112;" fill="freeze" repeatDur="indefinite" />
+<animate attributeName="fill" begin="5s" dur="20s" values="#112; #224; #44f; #224; #112; #112;" fill="freeze" repeatDur="indefinite" />
 </rect>
 <rect x="0" y="150" width="800" height="50" style="fill:#660;" />
 <use xlink:href="#sun" width="30" height="30" >
 <animateMotion path="M-60 0 M -30 100 Q 400 -100 800 100 Q 1200 -100 1600 100" begin="10s" dur="20s" fill="freeze" repeatDur="indefinite" />
 </use>
 <use xlink:href="#flower" x="20" y="100" width="100" height="100" >
-<animateTransform attributeType="XML"
-    attributeName="transform" type="skewY"
-    // from="30" to="45"
+<animateTransform attributeType="XML" attributeName="transform" type="skewY"
     values="30;60;30; 10; 30; 10; 10; 10; 10;"
     begin="2s" dur="20s" fill="freeze"
     repeatDur="indefinite" />
