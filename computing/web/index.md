@@ -1,5 +1,5 @@
-[Home](../../index.html)
+[Home/](../../index.html)
 [Computing/](../index.html)
 Web/
 
-[SVG](svg/index.html)
+[SVG/](svg/index.html)
