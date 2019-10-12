@@ -47,9 +47,9 @@ A Blog and a Description of some computing topics.
 <animateMotion path="M-60 0 M -30 100 Q 400 -100 800 100 Q 1200 -100 1600 100" begin="10s" dur="20s" fill="freeze" repeatDur="indefinite" />
 </use>
 <use xlink:href="#flower" x="20" y="100" width="100" height="100" >
-<animateTransform attributeType="XML" attributeName="transform" type="skewY"
-    values="30;60;30; 10; 30; 10; 10; 10; 10;"
-    begin="2s" dur="20s" fill="freeze"
+<animateTransform attributeType="XML" attributeName="transform" type="skewY" \
+    values="30;60;30; 10; 30; 10; 10; 10; 10;" \
+    begin="2s" dur="20s" fill="freeze" \
     repeatDur="indefinite" />
 </use>
 <use xlink:href="#flower" x="130" y="180" width="20" height="20" >
