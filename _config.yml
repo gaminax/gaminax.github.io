@@ -1,7 +1,7 @@
 title: Gaminax.GitHub.io
 description: Gaminax Computing Blog
 google_analytics: UA-73093345-1
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
