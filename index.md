@@ -58,8 +58,8 @@ A Blog and a Description of some computing topics.
 </svg>
 </div>
 
-## Formatting Method
-As an experiment, these Github Pages have been entered directly on the website with the Github editor, and without the use of an offline page generator.
+## [Texts/](texts/index.html)
+The texts have been produced with JavaScript.
 
 ## Revisions
 2019-10-12, 2019-10-11, 2019-10-10, 2016-03-15, 2016-03-10
