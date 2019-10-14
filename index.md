@@ -1,6 +1,7 @@
 Gaminax Home/
 
-A Blog and a Description of some computing topics.
+A Blog, Description of some computing topics, with an emphasis on software related to text editing and formatting.
+The Web Docs Project: well formatted versions of open source texts.
 
 ### [Computing Blog/](computingBlog/index.html)
 - [2019-10-11-initial-post](computingBlog/2019-10-11-initial-post.html)
