@@ -1,4 +1,3 @@
-[Gaminax Home](/index.html)
 
 The Web Docs Project: well formatted versions of open source texts.
 
