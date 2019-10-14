@@ -58,6 +58,9 @@ A Blog and a Description of some computing topics.
 </svg>
 </div>
 
+<br>
+<br>
+
 ## [Texts/](texts/index.html)
 The texts have been produced with JavaScript.
 
