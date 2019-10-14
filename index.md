@@ -65,5 +65,6 @@ A blog, along with descriptions of software related to text editing and formatti
 ## [Texts/](texts/index.html)
 The texts have been produced with JavaScript.
 
-There is a plain text file and an Asciidoc file associated with each displayed html text.
-If you wish to suggest a change related to a typo, the change ought to be to the text source file, and not the derived Asciidoc or html file. The convention is to add an 'r' to the filename of a derived file.
+There is a plain text source file and a derived Asciidoc file associated with each displayed html text.
+If you wish to suggest a change related to a typo, the change ought to be to the plain text source file used to generate the other files.
+
