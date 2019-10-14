@@ -1,4 +1,4 @@
-Gaminax Home/
+[Gaminax Home](https:gaminax.github.io/index.html)
 
 The Web Docs Project: well formatted versions of open source texts.
 
