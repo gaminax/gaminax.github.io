@@ -18,7 +18,7 @@ A blog, along with descriptions of software related to text editing and formatti
 - [Rimu/](computing/formatting/rimu/index.html)
 
 #### [Languages/](computing/languages/index.html)
-- [JavaScript](computing/languages/javascript/index.html)
+- [JavaScript/](computing/languages/javascript/index.html)
 
 #### [Web/](computing/web/index.html)
 - [SVG](computing/web/svg/index.html)
@@ -66,4 +66,4 @@ A blog, along with descriptions of software related to text editing and formatti
 The texts have been produced with JavaScript.
 
 There is a plain text file and an Asciidoc file associated with each displayed html text.
-If you wish to suggest a change related to a typo, the change ought to be to the text source file, and not the derived asciidoc or html file. The convention is to add an 'r' to the filename of a derived file.
+If you wish to suggest a change related to a typo, the change ought to be to the text source file, and not the derived Asciidoc or html file. The convention is to add an 'r' to the filename of a derived file.
