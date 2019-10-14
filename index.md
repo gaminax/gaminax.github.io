@@ -66,5 +66,7 @@ A blog, along with descriptions of software related to text editing and formatti
 The texts have been produced with JavaScript.
 
 There is a plain text source file and a derived Asciidoc file associated with each displayed html text.
-If you wish to suggest a change related to a typo, the change ought to be to the plain text source file used to generate the other files.
+There is an AsciiDoc browser plugin that allows the browser to display AsciiDoc text directly.
+
+If you wish to suggest a change related to a typo, the change will need to be to the plain text source file used to generate the other files.
 
