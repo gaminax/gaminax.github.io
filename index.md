@@ -64,6 +64,4 @@ A blog, along with descriptions of software related to text editing and formatti
 
 ## [Texts/](texts/index.html)
 The texts have been produced with JavaScript.
-
-## Revisions
-2019-10-12, 2019-10-11, 2019-10-10, 2016-03-15, 2016-03-10
+There is a plain text file and an Asciidoc file associated with each displayed html text.
