@@ -60,9 +60,9 @@ The Web Docs Project: well formatted versions of open source texts.
 <br>
 
 ## [Texts/](texts/index.html)
-[Josephus - Life](texts/Josephus0090Life.html)  
-[Josephus - Antiquities](texts/Josephus0090Antiquities.html)  
-[Josephus - War](texts/Josephus0090War.html)
+[Josephus - Life](texts/Josephus0090Life/index.html)  
+[Josephus - Antiquities](texts/Josephus0090Antiquities/index.html)  
+[Josephus - War](texts/Josephus0090War/index.html)
 
 The texts have been formatted with JavaScript and AsciiDoc.
 
