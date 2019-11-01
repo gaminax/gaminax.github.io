@@ -1,10 +1,7 @@
 
+Descriptions of software related to text editing and formatting.
+
 The Web Docs Project: well formatted versions of open source texts.
-
-A blog, along with descriptions of software related to text editing and formatting in today's web environment.
-
-### [Computing Blog/](computingBlog/index.html)
-- [2019-10-11-initial-post](computingBlog/2019-10-11-initial-post.html)
 
 
 ### [Computing/](computing/index.html )
@@ -63,10 +60,16 @@ A blog, along with descriptions of software related to text editing and formatti
 <br>
 
 ## [Texts/](texts/index.html)
-The texts have been produced with JavaScript.
+[Josephus - Life](texts/Josephus0090Life.html)  
+[Josephus - Antiquities](texts/Josephus0090Antiquities.html)  
+[Josephus - War](texts/Josephus0090War.html)
+
+The texts have been formatted with JavaScript and AsciiDoc.
 
 There is a plain text source file and a derived Asciidoc file associated with each displayed html text.
-There is an AsciiDoc browser plugin that allows the browser to display AsciiDoc text directly.
 
-If you wish to suggest a change related to a typo, the change will need to be to the plain text source file used to generate the other files.
+
+### [Computing Blog/](computingBlog/index.html)
+- [2019-10-11-initial-post](computingBlog/2019-10-11-initial-post.html)
+
 
