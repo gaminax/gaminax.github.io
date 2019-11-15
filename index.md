@@ -1,26 +1,17 @@
-
-Descriptions of software related to text editing and formatting.
+---
+layout: default
+---
 
 The Web Docs Project: well formatted versions of open source texts.
 
+[Josephus - Life](texts/Josephus0090Life/index.html)  
+[Josephus - Antiquities](texts/Josephus0090Antiquities/index.html)  
+[Josephus - War](texts/Josephus0090War/index.html)
 
-### [Computing/](computing/index.html )
+The texts have been created with Bash and JavaScript and formatted with AsciiDoc.  
+There is a plain text source file and a derived AsciiDoc file associated with each displayed html text.
 
-#### [Editors/](computing/editors/index.html)
-- [Emacs/](computing/editors/emacs/index.html)
-- [Vim/ ](computing/editors/vim/index.html)
-
-#### [Formatting/](computing/formatting/index.html)
-- [AsciiDoc/](computing/formatting/asciidoc/index.html)
-- [Rimu/](computing/formatting/rimu/index.html)
-
-#### [Languages/](computing/languages/index.html)
-- [JavaScript/](computing/languages/javascript/index.html)
-
-#### [Web/](computing/web/index.html)
-- [SVG](computing/web/svg/index.html)
-
-## Moon Flowers
+### Moon Flowers
 
 <div>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="100" viewBox="0 0 800 200" >
@@ -59,14 +50,13 @@ The Web Docs Project: well formatted versions of open source texts.
 <br>
 <br>
 
-## [Texts/](texts/index.html)
-[Josephus - Life](texts/Josephus0090Life/index.html)  
-[Josephus - Antiquities](texts/Josephus0090Antiquities/index.html)  
-[Josephus - War](texts/Josephus0090War/index.html)
+### [Computing/](computing/index.html )
+Descriptions of software related to text formatting and editing.  
 
-The texts have been formatted with JavaScript and AsciiDoc.
 
-There is a plain text source file and a derived Asciidoc file associated with each displayed html text.
+| [Web/](computing/web/index.html) | [Formatting/](computing/formatting/index.html) | [Editors/](computing/editors/index.html) | [Languages/](computing/languages/index.html) |
+| ----------- | ----------- | ----------- | ----------- |
+| [SVG](computing/web/svg/index.html) | [AsciiDoc/](computing/formatting/asciidoc/index.html) <br> [Rimu/](computing/formatting/rimu/index.html) | [Emacs/](computing/editors/emacs/index.html) <br> [Vim/ ](computing/editors/vim/index.html) | [JavaScript/](computing/languages/javascript/index.html) |
 
 
 ### [Computing Blog/](computingBlog/index.html)

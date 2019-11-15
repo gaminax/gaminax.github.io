@@ -5,12 +5,11 @@ show_downloads: false
 
 theme: minima
 github_username: gaminax
-
-gems:
-  - jekyll-mentions
-
 plugins:
-    - jekyll-feed
-    - jekyll-seo-tag
-    - jekyll-asciidoc
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-asciidoc
+
+asciidoc:
+    ext: ad, adoc, AsciiDoc
 
