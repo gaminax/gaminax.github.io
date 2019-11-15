@@ -59,7 +59,6 @@ Descriptions of software related to text formatting and editing.
 | [SVG](computing/web/svg/index.html) | [AsciiDoc/](computing/formatting/asciidoc/index.html) <br> [Rimu/](computing/formatting/rimu/index.html) | [Emacs/](computing/editors/emacs/index.html) <br> [Vim/ ](computing/editors/vim/index.html) | [JavaScript/](computing/languages/javascript/index.html) |
 
 
-### [Computing Blog/](computingBlog/index.html)
-- [2019-10-11-initial-post](computingBlog/2019-10-11-initial-post.html)
+[Computing Blog/](computingBlog/index.html)
 
 
