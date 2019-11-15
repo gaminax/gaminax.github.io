@@ -11,5 +11,5 @@ plugins:
  - jekyll-asciidoc
 
 asciidoc:
-    ext: ad, adoc, AsciiDoc
+    ext: ad, adoc, asciidoc
 

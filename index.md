@@ -51,12 +51,12 @@ There is a plain text source file and a derived AsciiDoc file associated with ea
 <br>
 
 ### [Computing/](computing/index.html )
-Descriptions of software related to text formatting and editing.  
+Descriptions of web software related to text formatting, editing and programming languages.  
 
 
 | [Web/](computing/web/index.html) | [Formatting/](computing/formatting/index.html) | [Editors/](computing/editors/index.html) | [Languages/](computing/languages/index.html) |
 | ----------- | ----------- | ----------- | ----------- |
-| [SVG](computing/web/svg/index.html) | [AsciiDoc/](computing/formatting/asciidoc/index.html) <br> [Rimu/](computing/formatting/rimu/index.html) | [Emacs/](computing/editors/emacs/index.html) <br> [Vim/ ](computing/editors/vim/index.html) | [JavaScript/](computing/languages/javascript/index.html) |
+| [SVG](computing/web/svg/index.html) | [AsciiDoc/](computing/formatting/asciidoc/index.html) <br> [Rimu/](computing/formatting/rimu/index.html) | [Vim/ ](computing/editors/vim/index.html)  <br> [Emacs/](computing/editors/emacs/index.html) | [JavaScript/](computing/languages/javascript/index.html) |
 
 
 [Computing Blog/](computingBlog/index.html)
