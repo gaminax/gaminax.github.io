@@ -10,6 +10,7 @@ a { color: #aa0;
 blockquote { color: #888; }
 table { color: #ccc; }
 table { tr { &:nth-child(even) { background-color: #003800; } } }
+table { th {  background-color: #003a00; } }
 h1 , h2 , h3, h4, h5 {
     font-family: 'IBM Plex Sans', sans-serif;
     color: #faa;
